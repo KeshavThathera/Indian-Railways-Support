@@ -34,7 +34,7 @@ Railway/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshjsh01/Digital-Twin.git
+   https://github.com/KeshavThathera/Indian-Railways-Support.git
    cd Digital-Twin
    ```
 
